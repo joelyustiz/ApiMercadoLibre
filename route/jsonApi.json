@@ -1,0 +1,20 @@
+{
+    "id_user": 1,
+    "user_banks":[{
+      "id_user_bank": null,
+      "id_bank": 1,
+      "bank_account": "1234 123456 47896 25663"
+    }],
+    "telephone_numbers":[{
+      "id_phone_number": null,
+      "id_type_of_cell_number":2,
+      "telephone_numbering_plan": null,
+      "phone_number": "123456789",
+      "ext": null
+    }],
+    "identifications":[{
+      "id_identification":null,
+      "id_type_of_identification": 1,
+      
+    }]
+  }
